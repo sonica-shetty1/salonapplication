@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "459991488107",
+    "firebase_url": "https://salonapplication-18e58-default-rtdb.firebaseio.com",
+    "project_id": "salonapplication-18e58",
+    "storage_bucket": "salonapplication-18e58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459991488107:android:263c8d18c9b8a32134832e",
+        "android_client_info": {
+          "package_name": "com.example.salonapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459991488107-i8h17nqjcghgos1qk7oafe4v7fi8jep3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANyfNv8OpT2G5PcvxlJ-rwck-iDWCOdpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459991488107-i8h17nqjcghgos1qk7oafe4v7fi8jep3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

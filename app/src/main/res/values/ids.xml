@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView6" type="id" />
+    <item name="Name" type="id" />
+    <item name="phone" type="id" />
+    <item name="registerBtn" type="id" />
+</resources>
